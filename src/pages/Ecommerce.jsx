@@ -23,7 +23,7 @@ const Ecommerce = () => {
               color = "white"
               bgColor = "pink"
               text="Download"
-              borderRadius = "10px"
+              borderRadius = "13px"
               size = "md"
                />
           </div>
