@@ -22,7 +22,7 @@ const Ecommerce = () => {
               <Button
               color = "pink"
               bgColor = "blue"
-              text="Download"
+              text="Download Now"
               borderRadius = "13px"
               size = "md"
                />
