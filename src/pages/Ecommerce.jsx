@@ -39,6 +39,7 @@ const Ecommerce = () => {
             >
               {item.icon}
             </button>
+            {/* interesting Facts */}
             <p className="mt-3">
               <span className="text-lg font-semibold">
                 {item.amount}
